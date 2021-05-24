@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-city-tour/static/css/main.bb548067.chunk.css",
+    "main.js": "/react-city-tour/static/js/main.de8633f5.chunk.js",
+    "main.js.map": "/react-city-tour/static/js/main.de8633f5.chunk.js.map",
+    "runtime-main.js": "/react-city-tour/static/js/runtime-main.71e1eac8.js",
+    "runtime-main.js.map": "/react-city-tour/static/js/runtime-main.71e1eac8.js.map",
+    "static/js/2.3be1c22a.chunk.js": "/react-city-tour/static/js/2.3be1c22a.chunk.js",
+    "static/js/2.3be1c22a.chunk.js.map": "/react-city-tour/static/js/2.3be1c22a.chunk.js.map",
+    "index.html": "/react-city-tour/index.html",
+    "static/css/main.bb548067.chunk.css.map": "/react-city-tour/static/css/main.bb548067.chunk.css.map",
+    "static/js/2.3be1c22a.chunk.js.LICENSE.txt": "/react-city-tour/static/js/2.3be1c22a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71e1eac8.js",
+    "static/js/2.3be1c22a.chunk.js",
+    "static/css/main.bb548067.chunk.css",
+    "static/js/main.de8633f5.chunk.js"
+  ]
+}
